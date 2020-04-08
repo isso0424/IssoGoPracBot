@@ -7,7 +7,6 @@ import (
 )
 
 var (
-	Token   = "Njk2MzM2MzY5NjcyMjU3NTQ2.Xo3i8Q.06pyEt8KJLlfqO_MLppgX5lsYNA"
 	stopBot = make(chan bool)
 )
 
